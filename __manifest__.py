@@ -13,7 +13,6 @@
     """,
     'depends': ['base', 'product', 'sale'],
     'data': [
-        'security/rental_security.xml',
         'security/ir.model.access.csv',
         'views/rental_views.xml',
         'data/rental_cron.xml',
